@@ -1,3 +1,3 @@
 # game_adventure
-That's my firt simple game.
+That's my first simple game.
 Check it out 
