@@ -57,12 +57,12 @@ while game == True:
                     for i in range(3):
                         print('The portal gun please send me to ISS')
                     print('\n The portal gun created a portal and you entranced there and ou got to ISS. It turned out that after passing the portal you have aged 30 years. You wanted to start doing research but you died after 2 years did not make any discovery.')
-                elif choice_old_man == 2:
+                elif choice_spock == 2:
                     print("\n You disagreed. You went out the spaceship and tried to get the ISS by your own. But you had difficulties. You flied there 2 weeks. You almost died but you got there. You spend a lot of time on the recovery. But after that you started doing research and made a big discovery")
             
             elif choice_dir2 == 1:
                 print("\n You went with them to Andromeda. Spoke and you discovered a new star system with habitable planets. 5 years later, earthlings built colonies there.")
         
-        elif choice_city == 2:
+        elif choice_dir == 2:
             print('\n You tried to get the ISS by your own. But you had difficulties. You flied there 2,5 weeks. You almost died but you got there. You spend a lot of time on the recovery. But after that you started doing research and made a big discovery')
             play = False
